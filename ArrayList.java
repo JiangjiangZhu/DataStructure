@@ -1,4 +1,5 @@
 public class ArrayList<AnyType> implements Iterable<AnyType>{
+	private int hehe = 50;
 	private static final int DEFAULT_CAPACITY = 10;
 	private int theSize;
 	private AnyType [] theItems;
